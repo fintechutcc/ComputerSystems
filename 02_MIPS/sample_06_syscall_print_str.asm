@@ -1,5 +1,5 @@
         .data
-str:    .asciiz "Computer Systems"
+str:    .asciiz "Computer Systems\n"
 
         .text
         .globl main
